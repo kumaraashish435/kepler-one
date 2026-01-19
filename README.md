@@ -1,11 +1,10 @@
-# KEPLER-ONE
+## KEPLER-ONE
 
-KEPLER-ONE is a scientific simulation engine focused on orbital mechanics,
-planetary motion, and gravitational systems.
+A high-precision orbital mechanics and planetary simulation engine
+designed for scientific research, education, and future space missions.
 
-## Vision
-To build accurate, scalable space simulation software that supports
-education, research, and future space missions.
-
-## Status
-Phase 0 — Core orbital physics engine (C++).
+### Core Focus
+- Newtonian gravity
+- Orbital dynamics
+- Planet–star systems
+- Numerical stability
